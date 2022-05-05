@@ -1,0 +1,25 @@
+.products{
+    display: flex;
+    border-bottom: 1px solid rgb(194, 227, 238);
+}
+.img{
+    margin:0px 60px;
+}
+.product-img{
+    height: 300px;
+}
+.side-product{
+    text-align: left;
+}
+.side-product h3{
+    color: blue;
+    font-weight: 400;
+}
+.btn-regular{
+    background-color: goldenrod;
+    height: 35px;
+    width: 180px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+}
